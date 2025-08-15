@@ -1,6 +1,4 @@
-- 👋 Hi, my name is Pedro Caroli
-- 💼 I’m systems analyst at Icatu Seguros
-- 👀 I'm interested in learning and sharing knowledge
+- 👋 Hi, my name is Pedro
 - 📫 How to reach me: phcaroli@gmail.com
 
 <!---
